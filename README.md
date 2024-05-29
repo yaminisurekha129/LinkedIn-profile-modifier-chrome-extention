@@ -12,8 +12,4 @@ This Chrome extension automatically modifies all profile pictures displayed on t
 
 Navigate to the LinkedIn feed and see the profile pictures changed to the specified image.
 
-## Demo
-
-[Link to demo video]
-
 
